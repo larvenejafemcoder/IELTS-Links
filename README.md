@@ -30,9 +30,10 @@
 - [Writing9](https://writing9.com/)
 - [IELTS Podcast](https://www.ieltspodcast.com/)
 
-## Mock Exam
+## Mock Exam - Prep
 - [British Council - Take IELTS](https://takeielts.britishcouncil.org/take-ielts/prepare)
 - [IELTS Reading Practice Test](https://ieltsmaterial.com/ielts-reading-practice-test/)
+- [Worddemy Blog](https://worddemy.com/blog/)
 
 ## Videos
 - [Dopebox](https://dopebox.to/home)
