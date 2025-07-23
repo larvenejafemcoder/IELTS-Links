@@ -1,4 +1,4 @@
-# 📚✨ IELTS Battle Pack 2.0 – Multilingual Meme Edition ✨🌍
+# 📚✨ IELTS Battle Station Pack for Commander KernelGhost 2.0 – Multilingual Meme Edition ✨🌍
 
 > "Study hard so one day you can flex your IELTS score on LinkedIn like a god." – Confucius probably
 
